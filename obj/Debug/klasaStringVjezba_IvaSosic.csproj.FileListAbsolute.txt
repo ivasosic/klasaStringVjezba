@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\bin\Debug\klasaStringVjezba_IvaSosic.exe.config
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\bin\Debug\klasaStringVjezba_IvaSosic.exe
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\bin\Debug\klasaStringVjezba_IvaSosic.pdb
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\obj\Debug\klasaStringVjezba_IvaSosic.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\obj\Debug\klasaStringVjezba_IvaSosic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\obj\Debug\klasaStringVjezba_IvaSosic.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\obj\Debug\klasaStringVjezba_IvaSosic.exe
+C:\Users\Ucenik\Documents\Iva\klasaStringVjezba_IvaSosic\obj\Debug\klasaStringVjezba_IvaSosic.pdb
